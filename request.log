@@ -1,0 +1,4710 @@
+Array
+(
+    [externalId] => 2535774969479139377-262139554348019215
+    [deliveredTS] => 1401799560000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287973926
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-86819820464932300
+    [deliveredTS] => 1402899136108
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999979711
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-174031562490359606
+    [deliveredTS] => 1402899136110
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999943067
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-382526238581916028
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999966081
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-125452947458324125
+    [deliveredTS] => 1402899136108
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999991231
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-552405607256450952
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999977826
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-546269468561756541
+    [deliveredTS] => 1402899136110
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999935551
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-193091504248017046
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999953163
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-385196794920569300
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999948728
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-317231846356311326
+    [deliveredTS] => 1402899136110
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999927787
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-336142161422112192
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999968551
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-499183766370001950
+    [deliveredTS] => 1402899136110
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999932069
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-351710778723449536
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999965669
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-268207794858791403
+    [deliveredTS] => 1402899136110
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999944321
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-102682021610814196
+    [deliveredTS] => 1402899136108
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999985840
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-384329534589689053
+    [deliveredTS] => 1402899136109
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919999969671
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2544998873303019555-295279153611915613
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919999938896
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2544998873303019555-14935895825968624
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919999979686
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2544998873303019555-512303493638736562
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999946767
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-259946776715621775
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999925598
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-522980690865323098
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999925156
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-491638996757428463
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999976218
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-430799396651681827
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => CALL_BARRED
+    [phoneNo] => 919999969685
+    [grpName] => 
+    [errCode] => 002
+)
+Array
+(
+    [externalId] => 2544998873303019555-433588412226087524
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999976736
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-111261341259414954
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999929614
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-220446394184998728
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999924616
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-483856632810226835
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999944670
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-209209955401163915
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999974793
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-517076971705523989
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999955859
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-294256006896614557
+    [deliveredTS] => 1402899420000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999971719
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-557135276114543572
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919999924833
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2544998873303019555-556202610944399031
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919999944136
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2544998873303019555-455368174145145929
+    [deliveredTS] => 1402899120000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919999973487
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2544998873303019555-567205460372066719
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999970358
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-456101063421414601
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999999177
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-221313916797573178
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999979074
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-392322357131230864
+    [deliveredTS] => 1402899120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999944072
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2544998873303019555-405207522646404111
+    [deliveredTS] => 1402913520000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999943831
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548016009173696547-262511261537809272
+    [deliveredTS] => 1403258760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287290623
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548016445227048995-513852714136963190
+    [deliveredTS] => 1403258820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287290623
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548016487501021219-188179567472396283
+    [deliveredTS] => 1403258820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287290623
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548016402216534051-298635300242397633
+    [deliveredTS] => 1403258820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287290623
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-311583432912660722
+    [deliveredTS] => 1403261329969
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919716702113
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2548037180004106275-353396511423378945
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919312509312
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-547458734830713272
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919311335577
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-409787332161676437
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919310035577
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-64232541481074158
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919312209312
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-172981420635604881
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919211118448
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-289584734022351740
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919313155399
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-480649236993671794
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919211118424
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-258505657126616706
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917503334987
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-280505890933119326
+    [deliveredTS] => 1403261280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919899475286
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548037180004106275-480939718354589637
+    [deliveredTS] => -1
+    [status] => SUBMITTED
+    [cause] => NO_ACK_FROM_OPERATOR
+    [phoneNo] => 919810189892
+    [grpName] => 
+    [errCode] => 013
+)
+Array
+(
+    [externalId] => 2548037180004106275-435711544971000231
+    [deliveredTS] => 1403265240000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999351975
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548841186399952945-539952124331688280
+    [deliveredTS] => 1403357160000
+    [status] => UNKNOWN
+    [cause] => OTHER
+    [phoneNo] => 919312569346
+    [grpName] => 
+    [errCode] => 00a
+)
+Array
+(
+    [externalId] => 2548841900616130609-546793012542044841
+    [deliveredTS] => 1403357220000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287290623
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2548842759432290353-510569102173085772
+    [deliveredTS] => 1403357340000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919312569346
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550288432519942179-574834891114644782
+    [deliveredTS] => 1403529660000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919312569346
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550300743133884465-33959941694283369
+    [deliveredTS] => 1403531160000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919555350535
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550777428924547107-551361459351401765
+    [deliveredTS] => 1403587980000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550778391343247395-177885912166262477
+    [deliveredTS] => 1403588100000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550779229865259043-57036086335592240
+    [deliveredTS] => 1403588160000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550780758987022371-170054468028189739
+    [deliveredTS] => 1403588340000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550781673242366001-454336620450875650
+    [deliveredTS] => 1403588460000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550782632730746929-557371937341082422
+    [deliveredTS] => 1403588580000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550783345848660017-410162309961762565
+    [deliveredTS] => 1403588700000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550782321711833137-44299219076933451
+    [deliveredTS] => 1403588580000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550791906182025251-273314804519257187
+    [deliveredTS] => 1403589720000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550780186410164259-349826436386477709
+    [deliveredTS] => -1
+    [status] => SUBMITTED
+    [cause] => NO_ACK_FROM_OPERATOR
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 013
+)
+Array
+(
+    [externalId] => 2550808234837889074-536698676718736458
+    [deliveredTS] => 1403591640000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550808855562276914-167213989207497390
+    [deliveredTS] => 1403591700000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550810434695438371-161906830195754989
+    [deliveredTS] => 1403591880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550876824333123634-193765633043178442
+    [deliveredTS] => 1403599800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550878653506600995-518971940821900933
+    [deliveredTS] => 1403600040000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550879222252101667-571334874330239084
+    [deliveredTS] => 1403600100000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550880722114646065-187544871221670796
+    [deliveredTS] => 1403600280000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550881777296101425-443336204605183406
+    [deliveredTS] => 1403600400000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550885333286764579-151662388916220017
+    [deliveredTS] => 1403600820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550890133708271651-211794376123368535
+    [deliveredTS] => 1403601420000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550890940963082275-147611862498763683
+    [deliveredTS] => 1403601480000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550894210730127395-488833238132773187
+    [deliveredTS] => 1403601914400
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919540000804
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550979562583801891-187349802825730572
+    [deliveredTS] => 1403612040000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550979633321549859-95614898925072244
+    [deliveredTS] => 1403612100000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550981206293401635-56203251108721704
+    [deliveredTS] => 1403612285074
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550982851335180323-352663704113577420
+    [deliveredTS] => 1403612481178
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550983747376775203-252609332492999155
+    [deliveredTS] => 1403612587996
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550984784309346339-324380306678217391
+    [deliveredTS] => 1403612711610
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550984852869271587-423002776234159415
+    [deliveredTS] => 1403612719794
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550985075871739939-26145261984362611
+    [deliveredTS] => 1403612746387
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550985153753137187-222204671479614155
+    [deliveredTS] => 1403612755647
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550985512358932515-210504674836450957
+    [deliveredTS] => 1403612760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550985527487107107-494490169145605914
+    [deliveredTS] => 1403612760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550986418563756067-83513961337628237
+    [deliveredTS] => 1403612880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550988125558562851-236439360078476074
+    [deliveredTS] => 1403613060000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550989241252286499-464686353345370715
+    [deliveredTS] => 1403613242994
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919899323884
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550989241252286499-486983760041426051
+    [deliveredTS] => 1403613242994
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919910008731
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2550989241252286499-536365456489483270
+    [deliveredTS] => 1403613240000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287849605
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550989241252286499-406905469435406001
+    [deliveredTS] => 1403613240000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919999941782
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550989241252286499-8607933527453046
+    [deliveredTS] => 1403613240000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918587895973
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2550895705055821873-506207273363637469
+    [deliveredTS] => 1403602080000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2551731637324742691-187353993646236809
+    [deliveredTS] => 1403701740000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919716986985
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2552320539844321330-467316934223616558
+    [deliveredTS] => 1403771940000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919350535307
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555181016505237539-20470090447835116
+    [deliveredTS] => 1404113820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555174903726288946-349597621992566607
+    [deliveredTS] => 1404114000000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555174968784822322-405236113730795253
+    [deliveredTS] => 1404114000000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555175790215680050-279310203495411507
+    [deliveredTS] => 1404114120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555177988512944163-341384796539641717
+    [deliveredTS] => 1404114360000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555255487122714659-553624478017650904
+    [deliveredTS] => 1404121800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919910446805
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2555403037328564274-495760072422112094
+    [deliveredTS] => 1404139408696
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919910285719
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2555875773029224497-399847406292072281
+    [deliveredTS] => 1404195720000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919711100495
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2556075679570726961-504726790475896474
+    [deliveredTS] => 1404219593641
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919417470429
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2556075679570726961-425040709424574029
+    [deliveredTS] => 1404220200000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919815449900
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2558916436447035442-565680914981240575
+    [deliveredTS] => 1404558240000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919179303407
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2558916002183983154-226292259175670678
+    [deliveredTS] => 1404558780000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918305799103
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2563298423694024813-532411204966470313
+    [deliveredTS] => 1405080960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919868242444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2563300631298134125-324382495784839738
+    [deliveredTS] => 1405081080000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919868242444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2563310761555075181-485788706337029285
+    [deliveredTS] => 1405084320000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919868242444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2563342949871702065-377389219733208117
+    [deliveredTS] => 1405085880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919868242444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2566218567046352945-322651455734002078
+    [deliveredTS] => 1405428720003
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919716442520
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2571780192745259058-406425425181245214
+    [deliveredTS] => 1406091660000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571780192745259058-406425425181245214
+    [deliveredTS] => 1406091660000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571780192745259058-406425425181245214
+    [deliveredTS] => 1406091660000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571781127342583858-81082852043392215
+    [deliveredTS] => 1406091780000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2571781127342583858-81082852043392215
+    [deliveredTS] => 1406091840000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2571793086391197746-170052044344276171
+    [deliveredTS] => 1406093220000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571793086391197746-170052044344276171
+    [deliveredTS] => 1406093220000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571793086391197746-170052044344276171
+    [deliveredTS] => 1406093220000
+    [status] => FAIL
+    [cause] => OTHER
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 016
+)
+Array
+(
+    [externalId] => 2571793086391197746-506086979562189704
+    [deliveredTS] => 1406093220000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918655249006
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2572638319872413805-131112457952903434
+    [deliveredTS] => 1406194014512
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 918574471875
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2572641028937560113-230493436217348385
+    [deliveredTS] => 1406194320000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919717411080
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2572678091010445361-205905082456803513
+    [deliveredTS] => 1406198760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2572678091010445361-205905082456803513
+    [deliveredTS] => 1406198760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2572678242526789681-551446018786184531
+    [deliveredTS] => 1406198773341
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919871330125
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2572678091010445361-205905082456803513
+    [deliveredTS] => 1406198760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919278264373
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2572678421122699313-413291504625688132
+    [deliveredTS] => 1406198794628
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919278264372
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2572678790225182769-486511766013047897
+    [deliveredTS] => 1406198838620
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919899655615
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2572679238695264305-401114935253113104
+    [deliveredTS] => 1406198892069
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911719019
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2572679562860310577-411453055552425144
+    [deliveredTS] => 1406198930709
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919540812569
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577094919815528497-520071665598956744
+    [deliveredTS] => 1406725282582
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919540812569
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577095430950105137-478668191696272344
+    [deliveredTS] => 1406725343209
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 917503993733
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577109669952610354-519899015236429028
+    [deliveredTS] => 1406727040954
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919540812569
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577587665432158317-178299647266028504
+    [deliveredTS] => 1406784022455
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919540812569
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577670771068096561-133277951814756830
+    [deliveredTS] => 1406793929116
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 917503993733
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577674054786515053-21035832309498912
+    [deliveredTS] => 1406794320562
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 917503993733
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2577677617305776237-466219524132121528
+    [deliveredTS] => 1406794745620
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 917503993733
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718229981032557-18770025754729978
+    [deliveredTS] => 1407157214513
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919417470429
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718230308237421-550211291015025445
+    [deliveredTS] => 1407157214545
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919007144774
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718230257893485-236104786583137799
+    [deliveredTS] => 1407157214517
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919007144778
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718230442492013-312308852160344616
+    [deliveredTS] => 1407157214531
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919201444499
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718230392148077-454418443170717154
+    [deliveredTS] => 1407157200000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919911437207
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2580718230165606509-541746716827050816
+    [deliveredTS] => 1407157200000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919062734701
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2580718230350192749-71685980786428209
+    [deliveredTS] => 1407157200000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918800307920
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2580721919953723501-26607341035866399
+    [deliveredTS] => 1407157654387
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 918818888767
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2580718230090096749-146273579843036766
+    [deliveredTS] => 1407162600000
+    [status] => FAIL
+    [cause] => ABSENT_SUBSCRIBER
+    [phoneNo] => 919958134943
+    [grpName] => 
+    [errCode] => 001
+)
+Array
+(
+    [externalId] => 2583500920138682418-232510340102858689
+    [deliveredTS] => 1407488937036
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583501422843473970-405485592901022030
+    [deliveredTS] => 1407488996959
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810593013
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583578586611392562-476771481721961207
+    [deliveredTS] => 1407498195612
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583629583555670066-155986609189027680
+    [deliveredTS] => 1407504274924
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583630255254962226-39279913125821882
+    [deliveredTS] => 1407504354976
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583630552320880690-438956805443635216
+    [deliveredTS] => 1407504390401
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583633041179443250-34019101691610478
+    [deliveredTS] => 1407504687088
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583639438692065330-234714128510378243
+    [deliveredTS] => 1407505449746
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583640113407475762-435185467300902920
+    [deliveredTS] => 1407505530178
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583644486526873650-399294019824541426
+    [deliveredTS] => 1407506051488
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583648756033286253-536296534431195401
+    [deliveredTS] => 1407506560776
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583648810860384365-363290667924732433
+    [deliveredTS] => 1407506566975
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583648873835282541-417007485225557921
+    [deliveredTS] => 1407506574481
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583649563514200173-423927511223316448
+    [deliveredTS] => 1407506656699
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2583650350475804781-473539714124508119
+    [deliveredTS] => 1407506700000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918802992947
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584195151238258797-290797377961112154
+    [deliveredTS] => 1407571680000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584201910605967469-448367534193545674
+    [deliveredTS] => 1407572501607
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584229948983767089-383722877640392308
+    [deliveredTS] => 1407575820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584237341220696113-202845243802728794
+    [deliveredTS] => 1407576725271
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584238097322979377-270032783709026483
+    [deliveredTS] => 1407576815398
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584238730091868209-280787881411598105
+    [deliveredTS] => 1407576890833
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584239140561051697-320578759174806357
+    [deliveredTS] => 1407576939768
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584242892119040109-489563519900853725
+    [deliveredTS] => 1407577386995
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584243883983503469-228591771098626114
+    [deliveredTS] => 1407577505218
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584244262484267117-118308044756023134
+    [deliveredTS] => 1407577550341
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584244671159930989-392154624346064173
+    [deliveredTS] => 1407577599060
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584244902802641005-536414752205010744
+    [deliveredTS] => 1407577626661
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584245097740537965-420563865286800587
+    [deliveredTS] => 1407577649909
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584245391854198893-549696968145440456
+    [deliveredTS] => 1407577684959
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584246578190401645-12686857405689093
+    [deliveredTS] => 1407577826394
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584247727632949357-522068171655909011
+    [deliveredTS] => 1407577920000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584252941843263597-132228859523427950
+    [deliveredTS] => 1407578580000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584182823956209714-441699122694904159
+    [deliveredTS] => 1407578640000
+    [status] => FAIL
+    [cause] => INBOXFULL
+    [phoneNo] => 918802992947
+    [grpName] => 
+    [errCode] => 011
+)
+Array
+(
+    [externalId] => 2584255263097790573-463394224506008293
+    [deliveredTS] => 1407578820000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584258155389739057-114292007234378468
+    [deliveredTS] => 1407579180000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2584188519858954289-82508059829543842
+    [deliveredTS] => 1407579300000
+    [status] => FAIL
+    [cause] => INBOXFULL
+    [phoneNo] => 918802992947
+    [grpName] => 
+    [errCode] => 011
+)
+Array
+(
+    [externalId] => 2584278330260922477-475366823636001763
+    [deliveredTS] => 1407581611529
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584286898596339761-1044621112613526
+    [deliveredTS] => 1407582633248
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584288133707382833-230676469894242679
+    [deliveredTS] => 1407582780198
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584185456163299378-452285468805968786
+    [deliveredTS] => 1407584940000
+    [status] => FAIL
+    [cause] => INBOXFULL
+    [phoneNo] => 918802992947
+    [grpName] => 
+    [errCode] => 011
+)
+Array
+(
+    [externalId] => 2584331365600972850-227687462101520797
+    [deliveredTS] => 1407587934149
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584335937555828786-341115385779938845
+    [deliveredTS] => 1407588478875
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584338556238880817-416497329361690924
+    [deliveredTS] => 1407588791053
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584341190583730225-564726718996689092
+    [deliveredTS] => 1407589105077
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584345490415591533-217328322743935357
+    [deliveredTS] => 1407589617929
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2584346600462807149-179987968842446047
+    [deliveredTS] => 1407589749975
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585588783598387250-499147370030412727
+    [deliveredTS] => 1407737830082
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585742826519629873-336645941487144176
+    [deliveredTS] => 1407756193392
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585742964361441329-202012273125559538
+    [deliveredTS] => 1407756209526
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585744041225928753-278955813398238465
+    [deliveredTS] => 1407756337900
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585745681482383409-270818283355600461
+    [deliveredTS] => 1407756533432
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585758279805784114-408579898310886441
+    [deliveredTS] => 1407758035565
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585759559613431858-130117242444582707
+    [deliveredTS] => 1407758187856
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585760678114402354-231821467725856942
+    [deliveredTS] => 1407758321196
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585765308844208178-389380326983015092
+    [deliveredTS] => 1407758873196
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585767378895933490-37976093047844105
+    [deliveredTS] => 1407759119987
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585769429929844786-150097363784831941
+    [deliveredTS] => 1407759364475
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2585769769201049650-518742713487520090
+    [deliveredTS] => 1407759404918
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586322517267800114-218220128012694468
+    [deliveredTS] => 1407825297922
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586326034293743665-313300758033216227
+    [deliveredTS] => 1407825717218
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586358805147799661-503284670373234077
+    [deliveredTS] => 1407829623624
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586369685467832369-486537808138244349
+    [deliveredTS] => 1407830920517
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586370279441412145-315803404443026896
+    [deliveredTS] => 1407830991308
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586370433402249265-368827139637441077
+    [deliveredTS] => 1407831009667
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586370609421250609-570319085365008299
+    [deliveredTS] => 1407831030645
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586370680177049649-312871624593121964
+    [deliveredTS] => 1407831039080
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919198765432
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586371163434950705-524501346605351518
+    [deliveredTS] => 1407831096689
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586371280412545073-277049243721774415
+    [deliveredTS] => 1407831110641
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586374131492171825-333226501312785934
+    [deliveredTS] => 1407831450508
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586377250889257010-345366272316212435
+    [deliveredTS] => 1407831822387
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586399494797430833-493189859036514806
+    [deliveredTS] => 1407834474056
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586401274345717809-505312720186113084
+    [deliveredTS] => 1407834686204
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586405681569337394-409907962447046539
+    [deliveredTS] => 1407835211928
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586406329480470578-383662150869851059
+    [deliveredTS] => 1407835288820
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586410925686452273-22531988684349915
+    [deliveredTS] => 1407835836731
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586412169788399665-332104277978695255
+    [deliveredTS] => 1407835985035
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586416978127913010-421323285110501902
+    [deliveredTS] => 1407836558546
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586417720507461682-464066265232767073
+    [deliveredTS] => 1407836646733
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586420203410120754-267134973145131384
+    [deliveredTS] => 1407836942738
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586420366050172978-571485544936668189
+    [deliveredTS] => 1407836962116
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586420558320177202-472304461104023855
+    [deliveredTS] => 1407836985040
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586422074925637682-461717403784429780
+    [deliveredTS] => 1407837165831
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586422383142359090-532543045944616253
+    [deliveredTS] => 1407837202565
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586423884672282674-498718225274335844
+    [deliveredTS] => 1407837381575
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586423961015914546-107371800231944450
+    [deliveredTS] => 1407837390673
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586424119512080434-19695981929776210
+    [deliveredTS] => 1407837409568
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586424288013156402-178915147563343843
+    [deliveredTS] => 1407837429653
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586424882907553842-333165002211229736
+    [deliveredTS] => 1407837500580
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586425048723460146-61795169844580702
+    [deliveredTS] => 1407837520337
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586425321059393586-440636010097853704
+    [deliveredTS] => 1407837552811
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586425391444439090-562135683677577828
+    [deliveredTS] => 1407837561199
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586427894808211506-478652789664135470
+    [deliveredTS] => 1407837859613
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586427994012422194-203298858007098522
+    [deliveredTS] => 1407837871441
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586428138218377266-330972759857992922
+    [deliveredTS] => 1407837888627
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586428558496776242-2758282182162412
+    [deliveredTS] => 1407837938728
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586429160361156658-172856575689904307
+    [deliveredTS] => 1407838010482
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586429273964855346-541651929739431049
+    [deliveredTS] => 1407838024021
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586430874778472498-532281885046459355
+    [deliveredTS] => 1407838214855
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586430986449133618-535273827054195918
+    [deliveredTS] => 1407838228167
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586431066685571122-223935236255763870
+    [deliveredTS] => 1407838237731
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586431994293993522-446481649542333342
+    [deliveredTS] => 1407838348313
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586433290153975858-435064212425563550
+    [deliveredTS] => 1407838502797
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919873916683
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586436453286027314-248151420799199675
+    [deliveredTS] => 1407838879873
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586442934999892017-513859285530797895
+    [deliveredTS] => 1407839652833
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586444394946396209-394618782810686033
+    [deliveredTS] => 1407839826591
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586449476315082801-359825528582184856
+    [deliveredTS] => 1407840432337
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586449720161292337-526824163498711779
+    [deliveredTS] => 1407840461401
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586452061822050353-332878403605310592
+    [deliveredTS] => 1407840740541
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586452321561239601-384555528197346041
+    [deliveredTS] => 1407840771519
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586453644856463409-536723579032342350
+    [deliveredTS] => 1407840929262
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586453754494013489-253201809737087129
+    [deliveredTS] => 1407840942338
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586453850353885233-521245929375748040
+    [deliveredTS] => 1407840953759
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586454059853680689-269064010177124574
+    [deliveredTS] => 1407840978737
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586454318000386097-162017646553816085
+    [deliveredTS] => 1407841009513
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586454680739229745-445381926502756830
+    [deliveredTS] => 1407841052751
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586456700110889009-231949174611919093
+    [deliveredTS] => 1407841293456
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586456920980463665-248887864750103455
+    [deliveredTS] => 1407841319785
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586457670800015409-198215911178639264
+    [deliveredTS] => 1407841409173
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586459258720919601-416208149099872378
+    [deliveredTS] => 1407841598469
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586462233577246770-553989009245268877
+    [deliveredTS] => 1407841953132
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586465497151234097-28551655973026807
+    [deliveredTS] => 1407842342158
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586471229217149037-198231280512884737
+    [deliveredTS] => 1407843025732
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586471904474067053-268553958996442806
+    [deliveredTS] => 1407843105962
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586473332389093485-430565543456782744
+    [deliveredTS] => 1407843276224
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586478095781494893-464197836907567939
+    [deliveredTS] => 1407843844019
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586479068339576941-545637698224711778
+    [deliveredTS] => 1407843959952
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586479786361544813-326259527771170484
+    [deliveredTS] => 1407844045559
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586481588262727789-105071937622574167
+    [deliveredTS] => 1407844260356
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586482708799250541-282104128298944730
+    [deliveredTS] => 1407844393925
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586482969217355885-142858662699745516
+    [deliveredTS] => 1407844424965
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586483029355941997-199364968282713988
+    [deliveredTS] => 1407844432135
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586489116427186225-396246631611553015
+    [deliveredTS] => 1407845157795
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586489221607890993-100897621607475195
+    [deliveredTS] => 1407845170323
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586489745763430449-61472589434264988
+    [deliveredTS] => 1407845232805
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586489822977470513-529727466021806954
+    [deliveredTS] => 1407845242010
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2586369986595684401-573891754852686769
+    [deliveredTS] => 1407845340000
+    [status] => UNKNOWN
+    [cause] => OTHER
+    [phoneNo] => 919189797798
+    [grpName] => 
+    [errCode] => 00a
+)
+Array
+(
+    [externalId] => 2587084504765182061-371003141905694272
+    [deliveredTS] => 1407916133909
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587153329412538477-413815499938348208
+    [deliveredTS] => 1407924338156
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587153602018910317-205149398261451367
+    [deliveredTS] => 1407924370645
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587156011484209261-330866582588808802
+    [deliveredTS] => 1407924657868
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587158089394589805-23036555014576322
+    [deliveredTS] => 1407924905571
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587167597055369265-257335117091181998
+    [deliveredTS] => 1407926040000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587167689329762353-511439301779433873
+    [deliveredTS] => 1407926040000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587170171298889777-241238256598131425
+    [deliveredTS] => 1407926340000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587170627234709553-564136759118362637
+    [deliveredTS] => 1407926400000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587172337317187693-287200813116879947
+    [deliveredTS] => 1407926604064
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587177222709985330-306369321443787209
+    [deliveredTS] => 1407927180000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587180767157575789-502426967234094198
+    [deliveredTS] => 1407927600000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184003618930797-176192553498131060
+    [deliveredTS] => 1407927994803
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184004399128685-194957981766368023
+    [deliveredTS] => 1407927994890
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184005095407725-145105481005245985
+    [deliveredTS] => 1407927994971
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184005758394477-253663811021741815
+    [deliveredTS] => 1407927995053
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184006471626861-355819683513231154
+    [deliveredTS] => 1407927995137
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184007344095341-361006868877312999
+    [deliveredTS] => 1407927995240
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184008577552493-16137581642803502
+    [deliveredTS] => 1407927995386
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184009274601581-567816737662079379
+    [deliveredTS] => 1407927995600
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184009945878637-368182615484215101
+    [deliveredTS] => 1407927995750
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184011313569901-327946573009075980
+    [deliveredTS] => 1407927995761
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184011976343661-174382053344187248
+    [deliveredTS] => 1407927995800
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184010650706029-131784060046300226
+    [deliveredTS] => 1407927996042
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810296622
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2587184005095407725-367505094216591130
+    [deliveredTS] => 1407927960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184009274601581-346671634296282683
+    [deliveredTS] => 1407927960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184007344095341-182996260928928722
+    [deliveredTS] => 1407927960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184010650706029-459573358967002500
+    [deliveredTS] => 1407928020000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184004399128685-120945385009353776
+    [deliveredTS] => 1407928020000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184008577552493-247591029285154803
+    [deliveredTS] => 1407928020000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184003618930797-116720500624063637
+    [deliveredTS] => 1407928020000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184009945878637-462899763023909836
+    [deliveredTS] => 1407928020000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184011313569901-539040032012455473
+    [deliveredTS] => 1407928080000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184006471626861-40061511586019929
+    [deliveredTS] => 1407928080000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184011976343661-474362168382721237
+    [deliveredTS] => 1407928380000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587189658395820141-122084527295360916
+    [deliveredTS] => 1407928800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587193457424728173-200179549490718057
+    [deliveredTS] => 1407929100000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587201947530096749-91490129145971050
+    [deliveredTS] => 1407930120000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587191067302871149-407546089268152666
+    [deliveredTS] => 1407930660000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 917834825428
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587184005758394477-570743014945517471
+    [deliveredTS] => 1407927960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918287052419
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2587242916361125997-357770712145623565
+    [deliveredTS] => 1407935017752
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2591469416104570989-337147594453235625
+    [deliveredTS] => 1408438855786
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2591548085414015085-331804496825060959
+    [deliveredTS] => 1408448234195
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592171859093270578-31549223001796993
+    [deliveredTS] => 1408522593514
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919873257151
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592171859093270578-199684988343116238
+    [deliveredTS] => 1408522560000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919582806665
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592173830028931122-73047691965885657
+    [deliveredTS] => 1408522800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919582806665
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592223343482191981-32047243706540702
+    [deliveredTS] => 1408528731102
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592242293278408754-391579290790572742
+    [deliveredTS] => 1408530960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919582806665
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592242293278408754-307557573814030544
+    [deliveredTS] => 1408530960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918285201264
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592316376951398450-124286315044876613
+    [deliveredTS] => 1408539821401
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592333059762614321-112773958178862573
+    [deliveredTS] => 1408541810434
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592338756106616882-357469765011838587
+    [deliveredTS] => 1408542489490
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592340899695652973-466567691411136245
+    [deliveredTS] => 1408542745012
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592344921750196273-88194399390672557
+    [deliveredTS] => 1408543224177
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592352625371963501-518438372212589451
+    [deliveredTS] => 1408544142530
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592377753924431981-465608152365321774
+    [deliveredTS] => 1408547138099
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592383675908632625-562808019523650526
+    [deliveredTS] => 1408547844062
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592387845568479341-361235165662284726
+    [deliveredTS] => 1408548341098
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592850334130937906-234609072832958322
+    [deliveredTS] => 1408603474054
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919310859390
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592850334130937906-259354514890442270
+    [deliveredTS] => 1408603440000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919643496775
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592851565871448114-96382178160832153
+    [deliveredTS] => 1408603620897
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919899522151
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592851565871448114-22164879271626722
+    [deliveredTS] => 1408603680000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918285201264
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592869050660843629-41138500734493072
+    [deliveredTS] => 1408605705571
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592880838773547058-7604546517806637
+    [deliveredTS] => 1408607110482
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592881127445962802-399947075552185267
+    [deliveredTS] => 1408607144884
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592885016162123825-364305329572548750
+    [deliveredTS] => 1408607608753
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592888880992903217-300325088093756405
+    [deliveredTS] => 1408608069169
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592889784925761585-143399971369652988
+    [deliveredTS] => 1408608180000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919911460056
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2592919271878389809-255880444352868365
+    [deliveredTS] => 1408611692087
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592920703196942385-245898219167526457
+    [deliveredTS] => 1408611862676
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592921925631586353-58010435926408675
+    [deliveredTS] => 1408612008406
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592923323406192689-240543709708244604
+    [deliveredTS] => 1408612175033
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2592960662615232561-508490192239151290
+    [deliveredTS] => 1408616626230
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593057808055877741-362710286979255598
+    [deliveredTS] => 1408628207734
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 914567890123
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2593057864563196013-170026003700183846
+    [deliveredTS] => 1408628213578
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593057967835816045-571260569567303069
+    [deliveredTS] => 1408628225899
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593062133316571186-56196171514327459
+    [deliveredTS] => 1408628722798
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593067186132107373-417043843799425256
+    [deliveredTS] => 1408629324814
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593067485120168045-132815861265350333
+    [deliveredTS] => 1408629360441
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593072028433981489-244991490682911599
+    [deliveredTS] => 1408629902345
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593072898415464497-57043371461154893
+    [deliveredTS] => 1408630005757
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593079720341717041-575382413317916268
+    [deliveredTS] => 1408630819005
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593079867364769841-571907133715046671
+    [deliveredTS] => 1408630836521
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593085903414702189-16062464128443646
+    [deliveredTS] => 1408631556082
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593086107562090605-477407036231587304
+    [deliveredTS] => 1408631580409
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593086078789062765-365888159399562032
+    [deliveredTS] => 1408631587047
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 914567890123
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2593089203985617005-23530827346948479
+    [deliveredTS] => 1408631949534
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593097968023314481-183042364432123970
+    [deliveredTS] => 1408632994298
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919899458880
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593101084611215410-327044102985221775
+    [deliveredTS] => 1408633365829
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593103203040620594-218283482693089377
+    [deliveredTS] => 1408633618427
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593103663841775666-261139037963892016
+    [deliveredTS] => 1408633673295
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593107225017045101-20380815326314580
+    [deliveredTS] => 1408634097811
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593110250011582513-346790699233348649
+    [deliveredTS] => 1408634458425
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593732279532671025-236355898370934626
+    [deliveredTS] => 1408708610436
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593733504081907761-352942733729026584
+    [deliveredTS] => 1408708756089
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2593735607965225009-101981789174380687
+    [deliveredTS] => 1408709006894
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594343715777478706-429292340114597742
+    [deliveredTS] => 1408781499300
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594348234628509805-284655523572268359
+    [deliveredTS] => 1408782038012
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594348547522789485-364724512732510751
+    [deliveredTS] => 1408782074967
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594398161917649005-33385405413355565
+    [deliveredTS] => 1408787989499
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594402333299347505-296172102954962824
+    [deliveredTS] => 1408788487056
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594405382557274221-533024411334761167
+    [deliveredTS] => 1408788850252
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594415731575070769-485624177166094228
+    [deliveredTS] => 1408790083963
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594415852272136241-82498064636398502
+    [deliveredTS] => 1408790098330
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594415818604073009-430061077937518972
+    [deliveredTS] => 1408790102043
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 914567890123
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2594454061954027629-443015725922866506
+    [deliveredTS] => 1408794653431
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594454174466240621-365882903691824293
+    [deliveredTS] => 1408794666685
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594464064205271149-544868209972235270
+    [deliveredTS] => 1408795845651
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594464412963991661-29843420364086188
+    [deliveredTS] => 1408795887215
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594465867228450925-217160447138967995
+    [deliveredTS] => 1408796060580
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594484475473879089-313693163483274196
+    [deliveredTS] => 1408798278877
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594489460211195953-443124958171353519
+    [deliveredTS] => 1408798873083
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594490940522700849-172463734735891276
+    [deliveredTS] => 1408799049564
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594491875709009969-93026426836358926
+    [deliveredTS] => 1408799161050
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594491934121971761-128095287897357755
+    [deliveredTS] => 1408799168003
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594492763374317617-86926430802098178
+    [deliveredTS] => 1408799266852
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594495585216585837-452142007584225249
+    [deliveredTS] => 1408799603253
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594497774199062637-13923499884989476
+    [deliveredTS] => 1408799864188
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594502127117529137-410184543171290372
+    [deliveredTS] => 1408800383416
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594503004911636529-374171695011952493
+    [deliveredTS] => 1408800487742
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2594511679136227377-227592183981501783
+    [deliveredTS] => 1408801521802
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595712111031943277-422915343499544584
+    [deliveredTS] => 1408944624707
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919810593013
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595750308205101105-63507997843224672
+    [deliveredTS] => 1408949178189
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595777900924637293-512877642321491737
+    [deliveredTS] => 1408952467221
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595779290745921645-266323352962669682
+    [deliveredTS] => 1408952632850
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595780117953151085-1613875811862813
+    [deliveredTS] => 1408952731466
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595781548570558513-75672241821399006
+    [deliveredTS] => 1408952902040
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595786528538214449-169376368051688545
+    [deliveredTS] => 1408953495687
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595789376078934125-181770602592322162
+    [deliveredTS] => 1408953835143
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595793488851247154-405931387676633747
+    [deliveredTS] => 1408954325700
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595793686674759730-111297218070702171
+    [deliveredTS] => 1408954349553
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 914567890123
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2595793717487255602-502049670193120922
+    [deliveredTS] => 1408954352661
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595846175581372465-41964231493389055
+    [deliveredTS] => 1408960606482
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595847960981364785-62760673145920533
+    [deliveredTS] => 1408960818998
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595848800845963313-569567456202329048
+    [deliveredTS] => 1408960919115
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595849852727754801-79648785482345277
+    [deliveredTS] => 1408961044510
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595852045199343665-49249082072691138
+    [deliveredTS] => 1408961305875
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595858908619055154-89169619880445790
+    [deliveredTS] => 1408962124071
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595861201813401650-356980963146471879
+    [deliveredTS] => 1408962397438
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595861967960907826-342584760248682299
+    [deliveredTS] => 1408962488760
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595867510108217453-155202377141084202
+    [deliveredTS] => 1408963149766
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595893248090935346-554521758407421217
+    [deliveredTS] => 1408966218012
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595917081042452589-566194717698924672
+    [deliveredTS] => 1408969058866
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595923949764149298-520352247251606329
+    [deliveredTS] => 1408969877596
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595924912676204593-191458949961972781
+    [deliveredTS] => 1408969980000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919548756548
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2595926240688406577-147291539139196456
+    [deliveredTS] => 1408970151893
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 916548792458
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2595930933048156269-404913211523899666
+    [deliveredTS] => 1408970710047
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595931433877086317-291783490862004519
+    [deliveredTS] => 1408970769729
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595931599431327853-426054366194592737
+    [deliveredTS] => 1408970789470
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595937309836894258-506204386161603854
+    [deliveredTS] => 1408971470233
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2595943597296210029-476597937095484577
+    [deliveredTS] => 1408972200000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919548756578
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2595945031811235949-529770195149519424
+    [deliveredTS] => 1408972380000
+    [status] => FAIL
+    [cause] => UNKNOWN_SUBSCRIBER
+    [phoneNo] => 919548761548
+    [grpName] => 
+    [errCode] => 003
+)
+Array
+(
+    [externalId] => 2595924911660879921-427275493641822070
+    [deliveredTS] => 1408974180000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919540268099
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2596502317319753778-265700387219002040
+    [deliveredTS] => 1409038824374
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2596502471375159346-450346430301279261
+    [deliveredTS] => 1409038842735
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919876543210
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2596509877775302705-443680149728601841
+    [deliveredTS] => 1409039726325
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 911234560123
+    [grpName] => 
+    [errCode] => 010
+)
+Array
+(
+    [externalId] => 2596549164120281197-22607014238479243
+    [deliveredTS] => 1409044409239
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 911234567890
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2606071096974585905-316727440751879496
+    [deliveredTS] => 1410179512314
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919818704142
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2606071096974585905-181290095305271846
+    [deliveredTS] => 1410179460000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918447224781
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2611104046033162349-193555965950254762
+    [deliveredTS] => 1410779487489
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919811484214
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2611107671977951341-266322776414051948
+    [deliveredTS] => 1410779880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919718120315
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2611644624526086253-366550513688561662
+    [deliveredTS] => 1410843928577
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 918860416152
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2613917253262528621-514705152507532507
+    [deliveredTS] => 1411114800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 918285201264
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2613918929918926957-136274191757216497
+    [deliveredTS] => 1411115046419
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919582871321
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2613926118399598701-527035330850731244
+    [deliveredTS] => 1411115880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919650380654
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2613926215072194669-155175838085370588
+    [deliveredTS] => 1411115880000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919582806665
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2616226912237977650-448225632992243579
+    [deliveredTS] => 1411390140000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919584888444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2616227294132834354-523690590975476189
+    [deliveredTS] => 1411390225032
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919752228444
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2616227294132834354-573471051742722578
+    [deliveredTS] => 1411390200000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919584888444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2616233073962999858-376476990600073360
+    [deliveredTS] => 1411390920000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919584888444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2616233450215784498-347874752034150080
+    [deliveredTS] => 1411390959091
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919752228444
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2616778824265826353-466987741696086127
+    [deliveredTS] => 1411455960000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919713515308
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2618198182055981106-166882191313306109
+    [deliveredTS] => 1411628760000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919990306444
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2618950041404403761-510884551651681378
+    [deliveredTS] => 1411714800000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919888244551
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2621189569255448685-296412821020463647
+    [deliveredTS] => 1411981740000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919888919784
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2621861697895080045-364463170246241928
+    [deliveredTS] => 1412061900000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919888244551
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2622008367855685681-403928713949952332
+    [deliveredTS] => 1412079383096
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2622010108020187185-74347374331420684
+    [deliveredTS] => 1412079589977
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2622010350591688753-284174600618456469
+    [deliveredTS] => 1412079618889
+    [status] => FAIL
+    [cause] => DND_FAIL
+    [phoneNo] => 919911460055
+    [grpName] => 
+    [errCode] => 006
+)
+Array
+(
+    [externalId] => 2622564972644679789-376372358862849836
+    [deliveredTS] => 1412145720000
+    [status] => SUCCESS
+    [cause] => SUCCESS
+    [phoneNo] => 919888244551
+    [grpName] => 
+    [errCode] => 000
+)
+Array
+(
+    [externalId] => 2622654517404946482-369092998439877140
+    [deliveredTS] => 1412156410653
+    [status] => FAIL
+    [cause] => DEFERRED
+    [phoneNo] => 915654646345
+    [grpName] => 
+    [errCode] => 010
+)
