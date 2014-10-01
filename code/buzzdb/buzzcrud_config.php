@@ -2,9 +2,9 @@
 class buzzcrud_config
 {
     // default connection
-    public static $dbname = 'cybuzzsc_hisab'; // Your database name
-    public static $dbuser = 'cybuzzsc'; // Your database username
-    public static $dbpass = 'KumarRavi#'; // // Your database password
+    public static $dbname = 'cybuzzsc_schemaexp'; // Your database name
+    public static $dbuser = 'cybuzzsc_schema'; // Your database username
+    public static $dbpass = 'ERsdlI8S[2(]'; // // Your database password
     public static $dbhost = 'localhost'; // Your database host, 'localhost' is default.
     
     
