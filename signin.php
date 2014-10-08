@@ -48,6 +48,13 @@ if (isset($_SESSION['uid'])) {
                             </div>
                             <a href="#" class="pull-right m-t-xs"><small>Forgot password?</small></a>
                             <button id="but_login" type="submit" class="btn btn-info">Sign in</button>
+                            <button class="g-signin"
+                                    data-scope="email"
+                                    data-clientid="517448909767-akehruqh8gl7e2kkl622mh1kqvkdljav.apps.googleusercontent.com"
+                                    data-callback="onSignInCallback"
+                                    data-theme="dark"
+                                    data-cookiepolicy="single_host_origin">
+                            </button>
                         </form>
                     </section>
                 </div>
@@ -70,5 +77,36 @@ if (isset($_SESSION['uid'])) {
         <script src="js/app.plugin.js"></script>
         <script src="js/app.data.js"></script>
         <script src="code/js/signin.js"></script>
+        <script type="text/javascript">
+            /**
+             * Handler for the signin callback triggered after the user selects an account.
+             */
+            function onSignInCallback(resp) {
+                gapi.client.load('plus', 'v1', apiClientLoaded);
+            }
+
+            /**
+             * Sets up an API call after the Google API client loads.
+             */
+            function apiClientLoaded() {
+                gapi.client.plus.people.get({userId: 'me'}).execute(handleEmailResponse);
+            }
+
+            /**
+             * Response callback for when the API client receives a response.
+             *
+             * @param resp The API response object with the user email and profile information.
+             */
+            function handleEmailResponse(resp) {
+                var primaryEmail;
+                for (var i = 0; i < resp.emails.length; i++) {
+                    if (resp.emails[i].type === 'account')
+                        primaryEmail = resp.emails[i].value;
+                }
+               alert(primaryEmail);
+            }
+
+        </script>
+
     </body>
 </html>
