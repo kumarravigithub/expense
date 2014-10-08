@@ -17,6 +17,7 @@ if (isset($_SESSION['uid'])) {
         <link rel="stylesheet" href="css/font.css" type="text/css" cache="false" />
         <link rel="stylesheet" href="css/plugin.css" type="text/css" />
         <link rel="stylesheet" href="css/app.css" type="text/css" />
+        <script src = "https://plus.google.com/js/client:plusone.js"></script>
         <!--[if lt IE 9]>
           <script src="js/ie/respond.min.js" cache="false"></script>
           <script src="js/ie/html5.js" cache="false"></script>
