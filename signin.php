@@ -49,7 +49,7 @@ if (isset($_SESSION['uid'])) {
                             </div>
                             <a href="#" class="pull-right m-t-xs"><small>Forgot password?</small></a>
                             <button id="but_login" type="submit" class="btn btn-info">Sign in</button>
-                            <button class="g-signin"
+                            <button class="btn btn-info g-signin"
                                     data-scope="email"
                                     data-clientid="517448909767-akehruqh8gl7e2kkl622mh1kqvkdljav.apps.googleusercontent.com"
                                     data-callback="onSignInCallback"
